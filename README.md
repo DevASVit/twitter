@@ -1,4 +1,4 @@
-# twitter
+# [twitter](https://devasvit.github.io/twitter/)
 HTML, CSS, JS
 
 Этот учебный проект был разработан в рамках воркшопа по JS "Twitter" от Glo Academy. Верстка была предоставлена М.Лескиным. 
